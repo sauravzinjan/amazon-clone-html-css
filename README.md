@@ -17,7 +17,7 @@ A responsive Amazon Clone built using HTML and CSS. This project recreates the l
 
 ## Preview
 
-![Amazon Clone](screenshot.png)
+![Amazon Clone](amazonclone.jpeg)
 
 ## Author
 
